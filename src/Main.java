@@ -12,10 +12,14 @@ public class Main {
         String b = "b";
         String c = "c";
 
-        for (int i = 0; i < 3; i++) {
-            
+        holderOfString.add(a);
+        holderOfString.add(b);
+        holderOfString.add(c);
 
+        for (String string: holderOfString) {
+            System.out.println(string);
         }
+        System.out.println("This is a new line of code");
     }
 
 }
