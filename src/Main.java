@@ -8,9 +8,9 @@ public class Main {
         System.out.println("touche fagirantiesret");
 
         ArrayList <String> holderOfString = new ArrayList<>();
-        String a = "a";
+        String a = "t";
         String b = "b";
-        String c = "c";
+        String c = "mmmmmmmmm";
 
         holderOfString.add(a);
         holderOfString.add(b);
